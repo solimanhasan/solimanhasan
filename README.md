@@ -19,7 +19,7 @@
 
 📫 How to reach me:
 - GitHub: [solimanhasan](https://github.com/solimanhasan)
-- Email: *(add your email if you like)*
+- Email: *(solimanhasan93@gmail.com)*
 
 ---
 🚀 Always learning. Always building. Always sharing.
