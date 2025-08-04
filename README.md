@@ -44,6 +44,9 @@ Deployment pipelines using cloud services
 
 GitHub: solimanhasan
 email : solimanhasan93@gmail.com
+linkdIn: www.linkedin.com/in/hasan-soliman-153311300
+
+
 "Turning raw biosignals into actionable insights with code, one project at a time."
 
 
