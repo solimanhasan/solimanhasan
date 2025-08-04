@@ -1,27 +1,49 @@
-# 👋 Hello, I'm Hasan Soliman
+👋 Hi, I'm Hasan Soliman
 
-🎓 I'm a Biomedical Engineering student passionate about Artificial Intelligence, Medical Data Analysis, and Machine Learning.
+🎓 Biomedical Engineering Student🔬 Passionate about applying Artificial Intelligence to biomedical signals and medical devices
 
-🧠 I’ve worked on projects involving:
-- Cleaning and processing sensor data (Samsung Human Activity dataset)
-- ECG signal processing and QRS feature extraction
-- Using Python and R for data manipulation and visualization
+🧠 About Me
 
-📦 Tools & Skills:
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
-- R programming (tidyverse, dplyr)
-- Git & GitHub
-- Machine Learning basics
-- Biomedical signal analysis
-- Cloud basics with AWS Academy
+📍 Focused on ECG signal analysis, especially using AI techniques like feature extraction and classification.
 
-💡 I'm currently focusing on combining biomedical signals with AI models for smarter healthcare.
+🤖 Currently working on graduation projects involving ECG signal classification using Python and microcontroller-based acquisition (e.g. Arduino with AD8232).
 
-📫 How to reach me:
-- GitHub: [solimanhasan](https://github.com/solimanhasan)
-- Email: *(solimanhasan93@gmail.com)*
+📊 Recently completed a project in data cleaning and tidy data principles using R programming within the Coursera Data Science Specialization.
 
----
-🚀 Always learning. Always building. Always sharing.
+☁️ Learning cloud computing and how to integrate medical AI with platforms like AWS (via AWS Academy & Educate).
 
--->
+🔬 Also working on automating medical device datasheet processing and summarization using Large Language Models (LLMs) and RAG techniques.
+
+🛠 Skills
+
+Languages: Python, R, MATLAB (basic), SQL (learning), Bash (basic)
+
+Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, dplyr (R)
+
+Signal Processing: ECG filtering, QRS/P/T wave detection, Wavelet transform
+
+Machine Learning: scikit-learn, SVM, KNN, feature engineering
+
+Deep Learning: CNNs (theoretical), TensorFlow (learning phase)
+
+Cloud Tools: AWS Academy Labs, S3 basics, intro to SageMaker
+
+Tools & Workflow: Git, GitHub Desktop, Jupyter Notebook, RStudio
+
+🌱 Currently Learning
+
+Advanced signal processing techniques (e.g., Wavelet features for ECG)
+
+PyTorch & TensorFlow for real-world signal-based DL projects
+
+Using LLMs for structured data analysis and summarization in healthcare
+
+Deployment pipelines using cloud services
+
+📫 How to reach me
+
+GitHub: solimanhasan
+email : solimanhasan93@gmail.com
+"Turning raw biosignals into actionable insights with code, one project at a time."
+
+
