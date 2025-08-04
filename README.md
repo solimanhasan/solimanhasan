@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Hasan Soliman
 
-<!--
-**solimanhasan/solimanhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Biomedical Engineering student passionate about Artificial Intelligence, Medical Data Analysis, and Machine Learning.
 
-Here are some ideas to get you started:
+🧠 I’ve worked on projects involving:
+- Cleaning and processing sensor data (Samsung Human Activity dataset)
+- ECG signal processing and QRS feature extraction
+- Using Python and R for data manipulation and visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📦 Tools & Skills:
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- R programming (tidyverse, dplyr)
+- Git & GitHub
+- Machine Learning basics
+- Biomedical signal analysis
+- Cloud basics with AWS Academy
+
+💡 I'm currently focusing on combining biomedical signals with AI models for smarter healthcare.
+
+📫 How to reach me:
+- GitHub: [solimanhasan](https://github.com/solimanhasan)
+- Email: *(add your email if you like)*
+
+---
+🚀 Always learning. Always building. Always sharing.
+
 -->
