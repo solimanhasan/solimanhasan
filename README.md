@@ -1,52 +1,17 @@
-👋 Hi, I'm Hasan Soliman
+I am a Biomedical Engineer and currently pursuing my studies in ICT Bioengineering at the University of Genoa, Italy.
 
-🎓 Biomedical Engineering Student🔬 Passionate about applying Artificial Intelligence to biomedical signals and medical devices
+I am particularly interested in Healthcare Data Analytics, Healthcare Information Systems, and the application of Artificial Intelligence and Data Science in healthcare.
 
-🧠 About Me
+I am currently developing my technical skills in:
 
-📍 Focused on ECG signal analysis, especially using AI techniques like feature extraction and classification.
+• Python for data analysis and processing
+• SQL and relational databases
+• Healthcare Data Analytics
+• Artificial Intelligence and Machine Learning
+• Biomedical Data Analysis
+• Healthcare Information Systems and Interoperability
 
-🤖 Currently working on graduation projects involving ECG signal classification using Python and microcontroller-based acquisition (e.g. Arduino with AD8232).
+I am especially interested in understanding how healthcare data is generated, managed, integrated, and transformed into meaningful insights that can support clinical research, healthcare operations, and better decision-making.
 
-📊 Recently completed a project in data cleaning and tidy data principles using R programming within the Coursera Data Science Specialization.
-
-☁️ Learning cloud computing and how to integrate medical AI with platforms like AWS (via AWS Academy & Educate).
-
-🔬 Also working on automating medical device datasheet processing and summarization using Large Language Models (LLMs) and RAG techniques.
-
-🛠 Skills
-
-Languages: Python, R, MATLAB (basic), SQL (learning), Bash (basic)
-
-Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, dplyr (R)
-
-Signal Processing: ECG filtering, QRS/P/T wave detection, Wavelet transform
-
-Machine Learning: scikit-learn, SVM, KNN, feature engineering
-
-Deep Learning: CNNs (theoretical), TensorFlow (learning phase)
-
-Cloud Tools: AWS Academy Labs, S3 basics, intro to SageMaker
-
-Tools & Workflow: Git, GitHub Desktop, Jupyter Notebook, RStudio
-
-🌱 Currently Learning
-
-Advanced signal processing techniques (e.g., Wavelet features for ECG)
-
-PyTorch & TensorFlow for real-world signal-based DL projects
-
-Using LLMs for structured data analysis and summarization in healthcare
-
-Deployment pipelines using cloud services
-
-📫 How to reach me
-
-GitHub: solimanhasan
-email : solimanhasan93@gmail.com
-linkdIn: www.linkedin.com/in/hasan-soliman-153311300
-
-
-"Turning raw biosignals into actionable insights with code, one project at a time."
-
+My long-term goal is to build a career in Healthcare Data Analytics and contribute to the digital transformation of healthcare through data-driven technologies.
 
